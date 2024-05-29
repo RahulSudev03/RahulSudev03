@@ -5,6 +5,6 @@
  📫 you can reach me at rahul03@iastate.edu<br/>
 
 <!-- Github stats from https://github.com/anuraghazra/github/github-readme-stats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RahulSudev03&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RahulSudev03&show_icons=true&theme=tokyonight)
  
 
