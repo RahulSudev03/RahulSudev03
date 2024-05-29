@@ -1,4 +1,4 @@
-# 💫 About Me
+# Hey, I'm Rahul!
 🔭 I’m currently working on creating my own 2D video game on Unity using C#<br>🌱 I’m currently learning AWS to clear the AWS developer Associate exam<br>🤔 I’m looking for help with learning more about deep learning and AI<br>📫 you can reach me at rahul03@iastate.edu
 
 
