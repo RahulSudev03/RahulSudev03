@@ -14,8 +14,5 @@
 
 
 
----
-[![](https://visitcount.itsvg.in/api?id=RahulSudev03&icon=0&color=0)](https://visitcount.itsvg.in)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thank+you;Feel+Free+to+reach+out!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thanks+for+stopping+by;Feel+Free+to+reach+out!;)](https://git.io/typing-svg)
 
