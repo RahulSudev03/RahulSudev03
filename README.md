@@ -1,5 +1,5 @@
 # Hey, I'm Rahul!
-🔭 I’m currently working on creating my own 2D video game on Unity using C#<br>🌱 I’m currently working towards clearing the AWS developer associate exam<br>🤔 I’m looking for help with learning more about deep learning and AI<br>📫 you can reach me at rahul03@iastate.edu
+🏫Studying Computer Science at Iowa State University<br>🔭 I’m currently working on creating my own 2D video game on Unity using C#<br>🌱 I’m currently working towards clearing the AWS developer associate exam<br>🤔 I’m looking for help with learning more about deep learning and AI<br>📫 you can reach me at rahul03@iastate.edu
 
 
 # 💻 Tech Stack
