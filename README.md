@@ -15,7 +15,8 @@
 # 💻 Project YouTube Videos
 <!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
 <!-- BEGIN YOUTUBE-CARDS -->
-[![5 things I wish I knew before studying Computer Science](https://ytcards.demolab.com/?id=Gz98lBQAvKM&title=CyStudy&lang=en&timestamp=1714626000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=333 "CyStudy")](https://www.youtube.com/watch?v=Gz98lBQAvKM)
+[![CyStudy](https://ytcards.demolab.com/?id=Gz98lBQAvKM&title=CyStudy&lang=en&timestamp=1714626000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=333 "CyStudy")](https://www.youtube.com/watch?v=Gz98lBQAvKM)
+[![Cheetcode](https://ytcards.demolab.com/?id=hR7loAAa-4w&title=Cheetcode+-+Headstarter+Final+Project&lang=en&timestamp=1725811083&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=333 "CyStudy")](https://www.youtube.com/watch?v=hR7loAAa-4w)
 <!-- END YOUTUBE-CARDS -->
 
 
